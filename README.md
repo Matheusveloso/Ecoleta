@@ -8,8 +8,9 @@ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos o
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 
 - Uma imagem do ponto de coleta
-- Nome da entidade, o endereço, estado e cidade onde estão localizados
-- além de selecionar um ou mais ítens de coleta:
+- Nome da entidade, Email e telefone para contato
+- O endereço, estado e cidade onde estão localizados
+- Além de selecionar um ou mais ítens de coleta:
   - lâmpadas
   - pilhas e baterias
   - papéis e papelão
