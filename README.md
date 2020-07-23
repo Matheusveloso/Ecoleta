@@ -21,3 +21,15 @@ As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 Os usuários irá poder fazer uma busca pelo nome da cidade e verificar se existe algum ponto de coleta na cidade pesquisada.
   
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/). O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+
+# COMO UTILIZAR
+
+Primeiro, você precisa ter o Node.JS instalado na sua máquina.
+
+Instale as dependências contidas nos arquivos package.json que se encontram na raíz do repositório. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
+- $ npm install
+
+para executar a aplicação em modo de desenvolvimento
+- $ npm start
+
+A aplicação será aberta na porta:3000 - acesse http://localhost:3000
