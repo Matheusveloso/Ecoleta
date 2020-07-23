@@ -22,7 +22,7 @@ Os usuários irá poder fazer uma busca pelo nome da cidade e verificar se exist
   
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/). O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
-# COMO UTILIZAR
+# Como Utilizar
 
 Primeiro, você precisa ter o Node.JS instalado na sua máquina.
 
