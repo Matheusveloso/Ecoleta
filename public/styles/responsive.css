@@ -1,0 +1,66 @@
+/*Media query esta ligada a responsividade do site,
+onde você pode dera definir as regras do site para se adaptar em diferentes tipos de telas*/
+
+@media(max-width: 530px){
+    #page-create-point form fieldset legend{
+        display: block;
+    }
+    
+    #page-create-point .items-grid{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media(max-width: 900px){
+
+    #page-home{
+        background-position-x: 70vw;
+    }
+
+    #page-home .content{
+        align-items: center;
+        text-align: center;
+    }
+
+    #page-home header a{
+        position: absolute;
+        bottom: -130px;
+
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #page-home main{
+        align-items: center;
+    }
+
+    /*responsividade do search results*/
+    #page-search-results .cards{
+        grid-template-columns: 1fr;
+    }
+    #page-search-results .cards img{
+        height: 150px;
+    }
+
+    /*regras para create point*/
+    #page-create-point .field-group{
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field{
+        margin-left: 0;
+    }
+
+}
+
+@media(min-width: 1700px){
+    #page-home{
+        background-position-x: 40vw;
+    }
+}
+
+@media(max-height: 760px){
+    #page-home{
+        background-position-y: 200px;
+    }
+}
